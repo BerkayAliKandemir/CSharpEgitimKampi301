@@ -1,0 +1,17 @@
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Form1.resources
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Properties.Resources.resources
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe.config
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CopyComplete
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.frmLocation.resources
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.frmStatistic.resources

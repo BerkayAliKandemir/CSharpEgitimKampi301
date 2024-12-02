@@ -1,0 +1,12 @@
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CopyComplete
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\Users\tosh\Desktop\My\CSharpEgitimKampi301\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.pdb
